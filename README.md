@@ -14,6 +14,8 @@ This repository contains my solutions while learning Dynamic Programming from St
 
 ### 2D DP
 - Ninja's training
+- Grid Unique Path
+- Grid Unique Path II
 
 Each problem includes:
 - Recursion
