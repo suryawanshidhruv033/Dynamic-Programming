@@ -16,6 +16,12 @@ This repository contains my solutions while learning Dynamic Programming from St
 - Ninja's training
 - Grid Unique Path
 - Grid Unique Path II
+- Minimum Path Sum
+- Triangle
+
+### 3D DP
+-Cherry Robo (leetcode 1463)
+
 
 Each problem includes:
 - Recursion
